@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vinay1759
 - 👀 I’m interested in Javascript
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Projects related to React
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on Projects related to Angular
 - 📫 How to reach me 
 
 <!---
